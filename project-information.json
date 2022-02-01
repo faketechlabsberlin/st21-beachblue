@@ -1,13 +1,13 @@
 {
     "project_name": "st21-beachblue",
     "project_name_full": "Beachblue",
-    "project_description": "[project_description]",
-    "project_video_url": "[project_video_url]",
-    "project_prototype_url": "[project_protype_url]",
+    "project_description": "https://github.com/TechLabs-Berlin/st21-beachblue#readme",
+    "project_video_url": null,
+    "project_prototype_url": null,
     "techlabs_url": "https://techlabs.org/",
-    "techlabs_location": "[Berlin]",
-    "techlabs_semester": "[WiSe2021]",
-    "project_status": "[searching for funding]",
+    "techlabs_location": "Berlin",
+    "techlabs_semester": "Winter 2021",
+    "project_status": "searching for funding",
     "project_tools": ["Notion", "Fondora", "Postman"],
     "project_members_contacts": [
         {
@@ -16,8 +16,8 @@
             "track": "UX",
             "github_name": "henriettabarko",
             "github_url": "https://github.com/henriettabarko",
-            "linkedin_url": "https://linkedin",
-            "email_adress": "Nickname1@provider.com",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Aron",
@@ -25,8 +25,8 @@
             "track": "DS",
             "github_name": "Aronmikes",
             "github_url": "https://github.com/AronMikes",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
          },
         {"name": "Nidhi",
@@ -34,8 +34,8 @@
             "track": "DS",
             "github_name": "Nidhi-1211",
             "github_url": "https://github.com/Nidhi-1211",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
          },
         {"name": "Gabriela",
@@ -43,8 +43,8 @@
             "track": "WD",
             "github_name": "gabrielassena",
             "github_url": "https://github.com/gabrielassena",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
          },
         {"name": "Luiz",
@@ -52,8 +52,8 @@
             "track": "WD",
             "github_name": "MariniLui",
             "github_url": "https://github.com/MariniLui",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         }
         ]
