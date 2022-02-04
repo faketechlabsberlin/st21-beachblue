@@ -3,7 +3,7 @@
 
 ### About
 
-Beachblue helps everyone to discover their favourite beach from the comfort of their own home. Planning for beach days made easy, or as we say: Your next dip, right in one click!
+Beachblue helps everyone to discover their favourite beach from the comfort of their own home. Planning for beach days made easy, or as we say: Your next dip, right in one click! Under the hood our website combines official EU data on waterquality with data from the Spanish government on beach amenities to inform the user about beaches around Spain. Our fancy machine learning models help us predict how well Google users would rate a spot and also make up our own rating system! From stunning Figma files, to a wepage as easy to navigate as child-play: It was a long journey but we are happy and insanely proud to present to you the final result: A working prototype of Beachblue!
 
 ### The Idea
 
